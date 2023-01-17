@@ -14,7 +14,7 @@ public class FirstDay {
 	public void nameOfStudent() {
 		//ctrl+d ---to delete a line
 		System.out.println("Student name is vignesh");
-
+		System.out.println("Student name is Deepak");
 	}
 
 	public void trainerName() {
